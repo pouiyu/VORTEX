@@ -5,7 +5,7 @@
 ![VortexOS Logo](https://img.shields.io/badge/VortexOS-Operating%20System-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Architecture](https://img.shields.io/badge/arch-x86--32-orange)
-![Status](https://img.shields.io/badge/status-development-yellow)
+![状态](https://img.shields.io/badge/status-development-yellow)
 
 **一个基于 x86 架构的轻量级操作系统内核**
 
@@ -340,17 +340,8 @@ gdb kernel.bin
 
 ---
 
-## 📞 联系方式
-
-- 项目主页: [GitHub Repository](https://github.com/yourusername/VortexOS)
-- 问题反馈: [议题](https://github.com/yourusername/VortexOS/issues)
-
----
-
 <div align="center">
 
-**Made with ❤️ by Vortex Team**
-
-⭐ 如果这个项目对您有帮助，请给我们一个 Star！
+由通义灵码编写
 
 </div>
